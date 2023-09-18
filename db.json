@@ -1,0 +1,547 @@
+{
+  "categories": [
+    {
+      "id": "a482e6f8-4df8-47e7-aaa9-d2a6301570a3",
+      "category": "Computer"
+    },
+    {
+      "id": "50f15964-d5f4-4067-9879-3399df5faf6d",
+      "category": "Hello"
+    },
+    {
+      "id": "40d9806e-b9ba-4042-804e-e1fafae54ddc",
+      "category": "Insurance"
+    },
+    {
+      "id": "e5016e67-1dac-4e74-9d4e-86547872d73d",
+      "category": "asdfg"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "d2533fa4-98a7-4263-ab70-893a8e4cce81",
+      "quizname": "Basics of Computer ",
+      "category": "Computer",
+      "type": "multiple",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "question": "What does CPU stand for?",
+          "options": [
+            "Central Process Unit",
+            "Computer Personal Unit",
+            "Central Processor Unit",
+            "Central Processing Unit"
+          ],
+          "answer": [
+            "4"
+          ]
+        },
+        {
+          "question": "In any programming language, what is the most common way to iterate through an array?",
+          "options": [
+            "&#039;For&#039; loops",
+            "&#039;If&#039; Statements",
+            "&#039;Do-while&#039; loops",
+            "\"&#039;While&#039; loops\""
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "question": "What does the Prt Sc button do?",
+          "options": [
+            "Nothing",
+            "Captures what&#039;s on the screen and copies it to your clipboard",
+            "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+            "Closes all windows"
+          ],
+          "answer": [
+            "2"
+          ]
+        },
+        {
+          "question": "How many kilobytes in one gigabyte (in decimal)?",
+          "options": [
+            "1000000",
+            "1024",
+            "1000",
+            "1048576"
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "question": "What does LTS stand for in the software market?",
+          "options": [
+            "Long Term Support",
+            "Long Taco Service",
+            "Ludicrous Transfer Speed",
+            "Ludicrous Turbo Speed"
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "question": "In computing, what does MIDI stand for?",
+          "options": [
+            "Musical Interface of Digital Instruments",
+            "Musical Instrument Data Interface",
+            "In computing, what does MIDI stand for?",
+            "Modular Interface of Digital Instruments"
+          ],
+          "answer": [
+            "3"
+          ]
+        },
+        {
+          "question": "In web design, what does CSS stand for?",
+          "options": [
+            "Cascading Style shhr",
+            "Counter Strike: Source",
+            "Corrective Style Sheet",
+            "Computer Style Sheet"
+          ],
+          "answer": [
+            "1"
+          ]
+        }
+      ],
+      "isAttempted": true,
+      "userAttemptHistory": {
+        "quizId": "d2533fa4-98a7-4263-ab70-893a8e4cce81",
+        "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+        "timestamp": "3/8/2023 @ 16:48:44",
+        "score": 5
+      },
+      "score": 5,
+      "attemptCount": 6
+    },
+    {
+      "id": "2b896493-f3b1-4805-a469-23ba3c6fe6ea",
+      "quizname": "FunTest",
+      "category": "Computer",
+      "type": "multiple",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question": "What five letter word is the motto of the IBM Computer company?",
+          "options": [
+            "Think",
+            "Click",
+            "Logic",
+            "Pixel"
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "id": "",
+          "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+          "options": [
+            "United States",
+            "Taiwan",
+            "Germany",
+            "China (People&#039;s Republic of)"
+          ],
+          "answer": [
+            "2"
+          ]
+        },
+        {
+          "id": "",
+          "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+          "options": [
+            "Heat Sink",
+            "CPU Vent",
+            "Temperature Decipator",
+            "Heat Vent"
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "id": "",
+          "question": "How fast is USB 3.1 Gen 2 theoretically?",
+          "options": [
+            "10 Gb/s",
+            "5 Gb/s",
+            "\"8 Gb/s",
+            "1 Gb/s"
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "id": "",
+          "question": "The teapot often seen in many 3D modeling applications is called what?",
+          "options": [
+            "Pixar Teapot",
+            "Utah Teapot",
+            "3D Teapot",
+            "Tennessee Teapot"
+          ],
+          "answer": [
+            "2"
+          ]
+        }
+      ],
+      "isAttempted": true,
+      "score": 0,
+      "userAttemptHistory": {
+        "quizId": "2b896493-f3b1-4805-a469-23ba3c6fe6ea",
+        "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+        "timestamp": "3/8/2023 @ 16:52:38",
+        "score": 0
+      },
+      "attemptCount": 6
+    },
+    {
+      "id": "d2fd46ab-5c0f-4dc5-8f30-73cd52b0314d",
+      "quizname": "BeNerding To geek",
+      "category": "Computer",
+      "type": "multiple",
+      "difficulty": "hard",
+      "questions": [
+        {
+          "question": "What port does HTTP run on?",
+          "options": [
+            "53",
+            "80",
+            "67",
+            "443"
+          ],
+          "answer": [
+            "2"
+          ]
+        },
+        {
+          "id": "",
+          "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+          "options": [
+            "Shellshock",
+            "Heartbleed",
+            "Corrupted Blood",
+            "Shellscript"
+          ],
+          "answer": [
+            "2"
+          ]
+        },
+        {
+          "id": "",
+          "question": "Which data structure does FILO apply to?",
+          "options": [
+            "Queue",
+            "Tree",
+            "Heap",
+            "Stack"
+          ],
+          "answer": [
+            "4"
+          ]
+        },
+        {
+          "id": "",
+          "question": "Which of the following is the oldest of these computers by release date?",
+          "options": [
+            "TRS-80",
+            "Commmondere 64",
+            "ZX Spectrum",
+            "Apple 3"
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "id": "",
+          "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+          "options": [
+            "IBM",
+            "Microsoft",
+            "Apple",
+            "Google"
+          ],
+          "answer": [
+            "3"
+          ]
+        }
+      ],
+      "isAttempted": true,
+      "userAttemptHistory": {
+        "quizId": "d2fd46ab-5c0f-4dc5-8f30-73cd52b0314d",
+        "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+        "timestamp": "3/8/2023 @ 17:15:48",
+        "score": 0
+      },
+      "score": 0,
+      "attemptCount": 5
+    },
+    {
+      "id": "cbfc41bd-1b57-4eac-8266-31336853e003",
+      "quizname": "Cameran Barr",
+      "category": "Insurance",
+      "type": "Voluptatem Rerum fu",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "question": "Molestiae placeat q",
+          "options": [
+            "Laboris non omnis ad",
+            "Quam atque minima cu",
+            "Voluptate ut adipisc",
+            "Odit et est est fac"
+          ],
+          "answer": [
+            "3",
+            "4",
+            "1"
+          ]
+        }
+      ],
+      "isAttempted": true,
+      "attemptCount": 1,
+      "userAttemptHistory": {
+        "quizId": "cbfc41bd-1b57-4eac-8266-31336853e003",
+        "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+        "timestamp": "3/8/2023 @ 14:37:40",
+        "score": 0
+      },
+      "score": 0
+    },
+    {
+      "id": "c2157f32-019b-4bd4-9c35-78702c7d2bca",
+      "quizname": "Tyler Nixon",
+      "category": "Insurance",
+      "type": "Magni eum dolorum ul",
+      "difficulty": "Culpa molestiae qui ",
+      "questions": [
+        {
+          "question": "Voluptatum voluptate",
+          "options": [
+            "Mollitia nulla nulla",
+            "Natus dolorum vitae ",
+            "Alias labore minim m",
+            "Tempore et et sunt "
+          ],
+          "answer": [
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "507e75b7-57fe-497c-a6a1-0787a29ee2e7",
+      "quizname": "Mechelle Wade",
+      "category": "Hello",
+      "type": "Dolorum ea ad invent",
+      "difficulty": "Et culpa quo ex dol",
+      "questions": [
+        {
+          "question": "Amet qui aliquip de",
+          "options": [
+            "Doloribus ipsam et e",
+            "Cum aut aut nemo et ",
+            "Unde consequatur ass",
+            "Facere aut aut quas "
+          ],
+          "answer": [
+            "1"
+          ]
+        },
+        {
+          "id": "",
+          "question": "Minim dolore nemo si",
+          "options": [
+            "Est sit ut est repu",
+            "Aperiam porro animi",
+            "Consectetur in volup",
+            "Quaerat aut et qui e"
+          ],
+          "answer": [
+            "2"
+          ]
+        },
+        {
+          "id": "",
+          "question": "Ut dolore laboris la",
+          "options": [
+            "In omnis aperiam nec",
+            "Dicta in quasi volup",
+            "Dolores temporibus u",
+            "Velit minima earum r"
+          ],
+          "answer": [
+            "3"
+          ]
+        }
+      ],
+      "isAttempted": true,
+      "attemptCount": 6,
+      "userAttemptHistory": {
+        "quizId": "507e75b7-57fe-497c-a6a1-0787a29ee2e7",
+        "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+        "timestamp": "3/8/2023 @ 14:35:41",
+        "score": 0
+      },
+      "score": 0
+    }
+  ],
+  "users": [
+    {
+      "id": "610f86e5-a217-42eb-ac15-c3a99dcc6c53",
+      "role": "admin",
+      "username": "admin",
+      "email": "quizsuperadmin@gmail.com",
+      "password": "U2FsdGVkX1+e4ghCBbr/7ir8lx3GwEfqtxYciXcayzs=",
+      "confirm_password": "U2FsdGVkX18qWilUZz28K39Ih5FuONWHLPsF9ElzrO0=",
+      "gender": "male",
+      "dateOfBirth": "1999-12-14"
+    },
+    {
+      "id": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "role": "user",
+      "username": "saurav",
+      "email": "saurav@gmail.com",
+      "password": "U2FsdGVkX1884YpU9pGojZFSbhyve2ZKi11Xis56qwo=",
+      "confirm_password": "U2FsdGVkX1+SRNkdrP+JEu/e7ZzhvBYpnHVs2Cwai30=",
+      "gender": "male",
+      "dateOfBirth": "1999-12-14"
+    }
+  ],
+  "quizHistory": [
+    {
+      "quizId": "d2533fa4-98a7-4263-ab70-893a8e4cce81",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:46:1",
+      "score": 0,
+      "id": 2
+    },
+    {
+      "quizId": "d2533fa4-98a7-4263-ab70-893a8e4cce81",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:44:48",
+      "score": 0,
+      "id": 1
+    },
+    {
+      "quizId": "d2533fa4-98a7-4263-ab70-893a8e4cce81",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:46:32",
+      "score": 4,
+      "id": 3
+    },
+    {
+      "quizId": "d2533fa4-98a7-4263-ab70-893a8e4cce81",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:46:45",
+      "score": 0,
+      "id": 4
+    },
+    {
+      "quizId": "d2533fa4-98a7-4263-ab70-893a8e4cce81",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:47:13",
+      "score": 4,
+      "id": 5
+    },
+    {
+      "quizId": "2b896493-f3b1-4805-a469-23ba3c6fe6ea",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:51:9",
+      "score": 0,
+      "id": 6
+    },
+    {
+      "quizId": "2b896493-f3b1-4805-a469-23ba3c6fe6ea",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:51:27",
+      "score": 3,
+      "id": 7
+    },
+    {
+      "quizId": "2b896493-f3b1-4805-a469-23ba3c6fe6ea",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:52:23",
+      "score": 0,
+      "id": 8
+    },
+    {
+      "quizId": "d2fd46ab-5c0f-4dc5-8f30-73cd52b0314d",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:52:50",
+      "score": 1,
+      "id": 9
+    },
+    {
+      "quizId": "d2fd46ab-5c0f-4dc5-8f30-73cd52b0314d",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 16:53:20",
+      "score": 1,
+      "id": 10
+    },
+    {
+      "quizId": "d2fd46ab-5c0f-4dc5-8f30-73cd52b0314d",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 17:12:56",
+      "score": 0,
+      "id": 11
+    },
+    {
+      "quizId": "d2fd46ab-5c0f-4dc5-8f30-73cd52b0314d",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 17:15:34",
+      "score": 0,
+      "id": 12
+    },
+    {
+      "quizId": "d2fd46ab-5c0f-4dc5-8f30-73cd52b0314d",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 17:15:47",
+      "score": 0,
+      "id": 13
+    },
+    {
+      "quizId": "507e75b7-57fe-497c-a6a1-0787a29ee2e7",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 18:1:12",
+      "score": 2,
+      "id": 14
+    },
+    {
+      "quizId": "507e75b7-57fe-497c-a6a1-0787a29ee2e7",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 18:1:55",
+      "score": 2,
+      "id": 15
+    },
+    {
+      "quizId": "507e75b7-57fe-497c-a6a1-0787a29ee2e7",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 18:9:47",
+      "score": 2,
+      "id": 16
+    },
+    {
+      "quizId": "507e75b7-57fe-497c-a6a1-0787a29ee2e7",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 18:12:22",
+      "score": 3,
+      "id": 17
+    },
+    {
+      "quizId": "cbfc41bd-1b57-4eac-8266-31336853e003",
+      "userId": "ef5f2dd2-cdad-40e7-9a44-f35fc99c3cb7",
+      "timestamp": "3/8/2023 @ 14:37:35",
+      "score": 1,
+      "id": 18
+    }
+  ]
+}
